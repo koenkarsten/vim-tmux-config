@@ -36,6 +36,7 @@ Plug 'moll/vim-bbye' " Delete buffers without affecting windows
 Plug 'christoomey/vim-tmux-navigator' " Navigate vim and tmux with Ctrl-[hjkl]
 Plug 'jpalardy/vim-slime' " Send input from vim to screen/tmux
 Plug 'morhetz/gruvbox' " colorscheme
+Plug 'airblade/vim-gitgutter' " See git diff in gutter for opened file
 
 " Plugins with a post-install hook
 " ================================
