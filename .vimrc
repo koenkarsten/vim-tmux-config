@@ -37,6 +37,7 @@ Plug 'christoomey/vim-tmux-navigator' " Navigate vim and tmux with Ctrl-[hjkl]
 Plug 'jpalardy/vim-slime' " Send input from vim to screen/tmux
 Plug 'morhetz/gruvbox' " colorscheme
 Plug 'airblade/vim-gitgutter' " See git diff in gutter for opened file
+Plug 'https://github.com/sophacles/vim-bundle-mako.git' " Mako file highlighting
 
 " Plugins with a post-install hook
 " ================================
